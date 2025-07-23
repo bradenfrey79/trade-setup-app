@@ -1,5 +1,5 @@
 fastapi==0.115.0
 uvicorn==0.30.6
 alpha-vantage==2.3.1
-pandas==2.1.4
+pandas==2.0.3
 python-dotenv==1.0.1
